@@ -1,0 +1,97 @@
+.header-area.header-sticky .logo {
+    margin-top: 6px;
+    margin-left: 75px;
+}
+
+.header-area.header-sticky .nav li a.active {
+    color: #0493cd;
+}
+
+a.main-button-slider:hover {
+    background-color: #0493cd;
+}
+a.main-button-slider {
+    background-color: #fff !important;
+    color:#0493cd!important;
+}
+
+
+a.main-button-slider {
+    font-size: 25px;
+    border-radius: 20px;
+    padding: 12px 20px;
+    background-color: #fff;
+    color:#fefefe
+ }
+
+ .features-small-item .icon {
+
+    background: #0493cd;
+
+}
+.features-small-item .icon:hover {
+    background: #f13f23;
+}
+
+
+::selection {
+    background: #f13f23!important;
+    color: #fff;
+}
+.features-small-item:hover .icon {
+    background-color: #f13f23;
+}
+button.main-button:hover {
+    background-color: #f13f23;
+}
+
+
+.welcome-area .header-text {
+    position: absolute;
+    top: 44%;
+    transform: translateY(-55%);
+    text-align: center;
+    width: 100%;
+}
+
+footer {
+    background:#0493cd;
+    padding-top: 30px;
+}
+
+footer .social li a:hover {
+    background-color: #0493cd;
+    color: #fff;
+}
+footer .social li a {
+    color: #0493cd;
+}
+a {
+    color: #fff;
+}
+
+a:hover{
+    color: #fff;
+
+}
+
+a.main-button {
+    background-color: #0493cd;
+}
+a.main-button:hover {
+    background-color: #f13f23;
+}
+
+button.main-button {
+    background-color: #0493cd;
+}
+
+#preloader {
+    overflow: hidden;
+    background-image: linear-gradient(135deg, #dc3545 0%, #dc3545 100%);
+    left: 0;
+}
+
+.team-item .team-content .team-info span {
+    color: #f13f23 !important;
+}
