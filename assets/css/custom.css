@@ -123,3 +123,12 @@ button.main-button {
     top: -20%;
     left: -20%;
 }
+
+
+@media (max-width: 991px){
+
+.header-area.header-sticky .logo {
+    margin-top: 7px !important;
+    margin-left: 30px!important;
+}
+}
