@@ -95,3 +95,31 @@ button.main-button {
 .team-item .team-content .team-info span {
     color: #f13f23 !important;
 }
+
+.section.colored {
+    background: #f4f4f4;
+}
+
+
+.welcome-area .header-text h1 {
+    font-size: 65px;
+}
+
+.welcome-area .header-text p {
+    font-size: 22px;
+}
+
+.mini:before {
+    content: '';
+    position: absolute;
+    width: 140%;
+    height: 140%;
+    opacity: .99999999;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: left left;
+    background-image: url(../images/work-process-bg.png);
+    z-index: 2;
+    top: -20%;
+    left: -20%;
+}
